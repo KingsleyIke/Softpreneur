@@ -1,3 +1,5 @@
 Demo Site
 ........................................
-This is a demo site fro practice purpose....
+This is a demo site for practice purpose
+
+Intructions on different branch
