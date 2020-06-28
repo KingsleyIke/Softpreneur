@@ -13,3 +13,5 @@ Please delete option that are not relevant.
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New featuer (non-breaj=king change which adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] This change requires a document update
